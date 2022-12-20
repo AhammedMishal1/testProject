@@ -18,6 +18,8 @@
     "react-native-background-actions": "^2.6.7",
     "react-native-gesture-handler": "^2.8.0",
     "react-native-intent-launcher": "^0.2.1",
+    "react-native-invoke-app": "^1.0.6",
+    "react-native-permissions": "^3.6.1",
     "react-native-safe-area-context": "^4.4.1",
     "react-native-screens": "^3.18.2"
   },
